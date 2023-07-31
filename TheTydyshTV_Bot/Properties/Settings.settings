@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TheTydyshTV_Bot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="actionTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="defChanceBlEv" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="enAutoFight" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="enBossAutoFight" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="intervalAutoFight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="intervalBossAutoFight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="minTournamentFighters" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="channelName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">thetydyshtv</Value>
+    </Setting>
+    <Setting Name="channelId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">w0bwo53aps3ef1kuh2mw4edzu4cfoq</Value>
+    </Setting>
+    <Setting Name="botName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TheTydyshTV</Value>
+    </Setting>
+    <Setting Name="twitchOAuth" Type="System.String" Scope="User">
+      <Value Profile="(Default)">hfjuhv3gbi043qkn7isn8en2vaotwx</Value>
+    </Setting>
+    <Setting Name="serverPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">49050</Value>
+    </Setting>
+    <Setting Name="serverIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">159.69.223.153</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
